@@ -31,7 +31,7 @@
     <dependency>
       <groupId>com.yahoo.vespa</groupId>
       <artifactId>config-model</artifactId>
-      <version>8-SNAPSHOT</version>
+      <version>8.624.72</version>
     </dependency>
     <dependency>
       <groupId>com.yahoo.vespa</groupId>
@@ -41,12 +41,12 @@
     <dependency>
       <groupId>com.yahoo.vespa</groupId>
       <artifactId>vespajlib</artifactId>
-      <version>8-SNAPSHOT</version>
+      <version>8.624.72</version>
     </dependency>
     <dependency>
       <groupId>com.yahoo.vespa</groupId>
       <artifactId>searchlib</artifactId>
-      <version>8-SNAPSHOT</version>
+      <version>8.624.72</version>
     </dependency>
     <dependency>
       <groupId>com.yahoo.vespa</groupId>
